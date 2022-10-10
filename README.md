@@ -2,7 +2,7 @@
 
 # Howdy howdy!
 
-I have gathered some of my relevant coding experience in relation to the job qualifications/preferred qualifications.
+I have gathered some of my relevant coding experience in relation to the job qualifications/preferred qualifications for the Research Analyst position with GreyNoise Intelligence! Hopefully this is of help for you all.
 I have yet to learn much about creating network traffic signatures, but I will update the directory with projects I take on to learn more about creating them!
 
 ## setup.py
