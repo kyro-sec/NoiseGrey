@@ -43,6 +43,3 @@ This can be imported into a program by:
 The only big use-case for this program is if it is ran alongside an HTTP server.
 
 Though a small program, this was the only one I had in relation to HTTP experience in coding. (:
-
-## /NetworkTrafficSignatures/?
-I have yet to learn much about creating network traffic signatures, but I will update the directory with projects I take on to learn more about creating them!
