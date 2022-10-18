@@ -35,6 +35,7 @@ This can be ran as:
 
 This program is not fully completed and returns an error when gathering port information. 
 This program takes in a URL from user input and gathers information such as the IP address, hostname, and any open ports. I know I could've done this more easily with nmap, but where's the fun in that?
+A few more security projects can be found on my blog!
 
 ## /HTTP/loadbalancer.py
 This can be imported into a program by:
